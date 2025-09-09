@@ -1,15 +1,16 @@
-    # Labor FEIS Web (Ready for GitHub -> Vercel)
+# Labor FEIS Web
 
+Website resmi **Laboratorium Kewirausahaan & Inkubator Bisnis FEIS UIN Suska Riau**
 
-    ## Run locally
+## 🚀 Jalankan di lokal
+```bash
+npm install
+npm run dev
+```
+Lalu buka [http://localhost:3000](http://localhost:3000)
 
-1. npm install
-2. npm run dev
-
-## Deploy to Vercel
-
-1. Push repo to GitHub
-2. Import project in Vercel
-3. Deploy
-
-Notes: replace 'your-disqus-shortname' in pages/ulasan.js with your Disqus shortname.
+## 🚀 Deploy ke Vercel
+1. Push project ini ke GitHub (repo: labor-feis-web)
+2. Masuk ke [Vercel](https://vercel.com)
+3. Import project dari GitHub
+4. Klik **Deploy** → website langsung online 🎉
